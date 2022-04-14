@@ -11,7 +11,7 @@ ____
 ### Writing educational projects and programs in Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 * [Restful]() - REST API for educational institutions
   [![heusebio's 42 Restful Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2527974)](https://github.com/JaeSeoKim/badge42)
-* [SpringBoot]() - website for cinema
+* [SpringBoot](https://github.com/valen0k/spring-boot-42) - website for cinema
   [![heusebio's 42 SpringBoot Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2513660)](https://github.com/JaeSeoKim/badge42)
 ____
 
