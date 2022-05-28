@@ -1,24 +1,28 @@
 ## Projects
 
 ### Writing projects and programs in Golang <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>
-* [robot-factory](https://github.com/valen0k/robot-factory) - REST API for selling robots
-____
+* [robot-factory](https://github.com/valen0k/robot-factory) - API for selling robots
+
 
 ## École 42
 
 [![heusebio's 42 stats](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/stats?cursusId=21&coalitionId=92)](https://github.com/JaeSeoKim/badge42)
 
 ### Writing educational projects and programs in Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
-* [Restful]() - REST API for educational institutions
+* [MessageQueue](https://github.com/valen0k/MessageQueue) - 
+
+* [MicroServices](https://github.com/valen0k/Microservices) - creating microservice applications using Spring framework
+  [![heusebio's 42 MicroServices Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2602420)](https://github.com/JaeSeoKim/badge42)
+* [Restful](https://github.com/valen0k/Restful) - REST API for educational institutions
   [![heusebio's 42 Restful Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2527974)](https://github.com/JaeSeoKim/badge42)
 * [SpringBoot](https://github.com/valen0k/spring-boot-42) - website for cinema
   [![heusebio's 42 SpringBoot Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2513660)](https://github.com/JaeSeoKim/badge42)
-____
+
 
 ### Writing educational projects and programs in Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 * [computorv1](https://github.com/valen0k/Computor_v1) -  A program that solves a polynomial second or lower degree equation.
   [![heusebio's 42 computorv1 Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2302718)](https://github.com/JaeSeoKim/badge42)
-____
+
 
 
 
