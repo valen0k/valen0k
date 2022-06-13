@@ -1,8 +1,8 @@
 ## Projects
 
 ### Writing projects and programs in Golang <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="20" height="20"/>
-* [url-shortener](https://github.com/valen0k/url-shortener-alt) - link shortening application
 * [console-application-service](https://github.com/valen0k/console-application-service-age) - console application for incrementing, encrypting and multiplying values
+* [url-shortener](https://github.com/valen0k/url-shortener-alt) - console application for shortening links
 * [robot-factory](https://github.com/valen0k/robot-factory) - API for selling robots
 
 
