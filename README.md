@@ -16,8 +16,10 @@
 
 * [MicroServices](https://github.com/valen0k/Microservices) - creating microservice applications using Spring framework
   [![heusebio's 42 MicroServices Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2602420)](https://github.com/JaeSeoKim/badge42)
-* [Restful](https://github.com/valen0k/Restful) - REST API for educational institutions
-  [![heusebio's 42 Restful Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2527974)](https://github.com/JaeSeoKim/badge42)
+
+[//]: # (* [Restful]&#40;https://github.com/valen0k/Restful&#41; - REST API for educational institutions)
+
+[//]: # (  [![heusebio's 42 Restful Score]&#40;https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2527974&#41;]&#40;https://github.com/JaeSeoKim/badge42&#41;)
 * [SpringBoot](https://github.com/valen0k/spring-boot-42) - website for cinema
   [![heusebio's 42 SpringBoot Score](https://badge42.vercel.app/api/v2/cl1w9xykb014509l1x0ze4boq/project/2513660)](https://github.com/JaeSeoKim/badge42)
 
